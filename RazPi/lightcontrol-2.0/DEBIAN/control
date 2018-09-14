@@ -1,0 +1,9 @@
+Package: LightControl
+Version: 2.0
+Architecture: all
+Maintainer: Casey Irvine <cirvine@microsoft.com>
+Depends: python3
+Installed-Size: 2.4
+Homepage: http://aka.ms
+Description: Light Control
+ Light Control python script for Raspberry Pi
